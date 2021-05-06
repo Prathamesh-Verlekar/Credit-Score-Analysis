@@ -1,11 +1,4 @@
-# **Assignment 1**
-
-## Team Information
-
-| Name | NEU ID 
-| --- | --- 
-|Prathamesh Shrikrishna Verlekar | 001376578 
-|Yash Pandya | 001346162
+# Credit Score Analysis
 
 ## Dataset Kaggle link
 
@@ -14,15 +7,6 @@ https://www.kaggle.com/c/GiveMeSomeCredit/data
 ## Claat Link
 
 https://codelabs-preview.appspot.com/?file_id=1XP5C_Dyq4n5XjUmAIwF9UN8vX6FeirDn2tEzlPGS0tI/edit?usp=sharing
-
-# **Dashboard for Analysis**
-
-**Main Dashboard:**
-![Main Dashboard](https://user-images.githubusercontent.com/55213702/84539877-46d1aa00-acc2-11ea-8e5c-2070aa7ec3e7.jpeg)
-
-**Detailed Dashboards:**
-![Detailed Dashboard 1](https://user-images.githubusercontent.com/55213702/84539879-476a4080-acc2-11ea-9651-a211033868c6.jpeg)
-![Detailed Dashboard 2](https://user-images.githubusercontent.com/55213702/84539880-476a4080-acc2-11ea-97c6-6bcd123f0f9e.jpeg)
 
 ## **About Dataset Features**
 
@@ -58,3 +42,11 @@ The debt ratio is calculated by the division of the Liability and monthly income
  
 All the visualiztion from Google Colab, XSV's Scripts, Trifacta, Salesforce Einstein Analytics are in respected folders.
 
+# **Dashboard for Analysis**
+
+**Main Dashboard:**
+![Main Dashboard](https://user-images.githubusercontent.com/55213702/84539877-46d1aa00-acc2-11ea-8e5c-2070aa7ec3e7.jpeg)
+
+**Detailed Dashboards:**
+![Detailed Dashboard 1](https://user-images.githubusercontent.com/55213702/84539879-476a4080-acc2-11ea-9651-a211033868c6.jpeg)
+![Detailed Dashboard 2](https://user-images.githubusercontent.com/55213702/84539880-476a4080-acc2-11ea-97c6-6bcd123f0f9e.jpeg)
